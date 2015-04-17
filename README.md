@@ -1,0 +1,1 @@
+Vše funguje, Verze z páteční hodiny. Pokud potkáte kešu někde s autem, tak mu ho obejděte klíčkama (nepleťte si auto s šalinou, škoda laku na šalině). FTP nefunguje a tunelování mi je pro stažení projektu k výkalu.
